@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a323f44-7d7d-4289-89b1-b175f8fbc980" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/microsoft/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\microsoft\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1awrovEoxmpArr9jrDxaMM7DyPy" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day1013_springboot_helloworld" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31494254" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lagou.config" />
+      <recent name="com.lagou.session" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\studyProject\IPersistence\src\main\java\com\lagou" />
+      <recent name="E:\studyProject\IPersistence_test\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IPersistenceTest.testDelete">
+    <configuration name="IPersistenceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPersistenceTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPersistenceTest.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPersistenceTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPersistenceTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IPersistenceTest.testDelete" />
+        <item itemvalue="JUnit.IPersistenceTest.testUpdate" />
+        <item itemvalue="JUnit.IPersistenceTest.testInsert" />
+        <item itemvalue="JUnit.IPersistenceTest.test" />
+        <item itemvalue="JUnit.IPersistenceTest.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a323f44-7d7d-4289-89b1-b175f8fbc980" name="Default Changelist" comment="" />
+      <created>1587657675944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587657675944</updated>
+      <workItem from="1587657677882" duration="2186000" />
+      <workItem from="1587708076347" duration="42595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1725" y="396" width="390" height="700" key="#com.intellij.ide.util.MemberChooser" timestamp="1588064109364">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1725" y="396" width="390" height="700" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1588064109364" />
+    <state x="1700" y="461" key="FileChooserDialogImpl" timestamp="1588010288110">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1700" y="461" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1588010288110" />
+    <state width="1401" height="362" key="GridCell.Tab.0.bottom" timestamp="1588070652620">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1401" height="362" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1588070652620" />
+    <state width="1401" height="362" key="GridCell.Tab.0.center" timestamp="1588070652620">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1401" height="362" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1588070652620" />
+    <state width="1401" height="362" key="GridCell.Tab.0.left" timestamp="1588070652620">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1401" height="362" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1588070652620" />
+    <state width="1401" height="362" key="GridCell.Tab.0.right" timestamp="1588070652620">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1401" height="362" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1588070652620" />
+    <state width="1234" height="595" key="GridCell.Tab.1.bottom" timestamp="1587746623212">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="595" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587746623212" />
+    <state width="1234" height="595" key="GridCell.Tab.1.center" timestamp="1587746623212">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="595" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587746623212" />
+    <state width="1234" height="595" key="GridCell.Tab.1.left" timestamp="1587746623212">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="595" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587746623212" />
+    <state width="1234" height="595" key="GridCell.Tab.1.right" timestamp="1587746623212">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="595" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587746623212" />
+    <state x="1423" y="348" key="SettingsEditor" timestamp="1587807605292">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1423" y="348" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587807605292" />
+    <state x="995" y="404" key="new project wizard" timestamp="1587708535522">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="995" y="404" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1587708535522" />
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1587720092182">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1587720092182" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/session/DefaultSqlSession.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/session/DefaultSqlSession.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
